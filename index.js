@@ -17,14 +17,14 @@ function logWhisper(string) {
 
 var uppercase = "HELLO!"
 
-if (uppercase.toUpperCase() === uppercase) //true
-return "I can't hear you!"
+if (uppercase.toUpperCase() === uppercase //true
+return "I can't hear you!")
 
 
 var lowercase = 'hello!'
 
-if (lowercase.toLowerCase() === lowercase) // true
- return "I can't hear you!"
+if (lowercase.toLowerCase() === lowercase // true
+ return "I can't hear you!")
 
 var mixedCase = 'Hi there!'
 
